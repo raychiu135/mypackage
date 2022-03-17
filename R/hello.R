@@ -8,3 +8,8 @@
 hello <- function(){
   print("Hello, world!")
 }
+
+greeting <- function(){
+  "How are you?"
+}
+
